@@ -5,5 +5,5 @@ It is a simple app to use Machine Learning Classifier Models to classify which f
 
 References: https://www.appbrewery.co/
 
-
+P.S. Need to use physical device to do the test
 
